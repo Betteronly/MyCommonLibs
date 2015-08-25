@@ -1,52 +1,52 @@
 <?xml version="1.0" encoding="GBK" standalone="no"?>
 <eclipse-userlibraries version="2">
     <library name="lib-springmvc" systemlibrary="false">
-        <archive javadoc="jar:platform:/resource/common-libs/SpringMVC_v4.1.4/doc/spring-aop-4.1.4.RELEASE-javadoc.jar!/"
-                                        source="/common-libs/SpringMVC_v4.1.4/src/spring-aop-4.1.4.RELEASE-sources.jar"
-                                          path="/common-libs/SpringMVC_v4.1.4/bin/spring-aop-4.1.4.RELEASE.jar"/>
+        <archive javadoc="jar:platform:/resource/MyCommonLibs/SpringMVC_v4.1.4/doc/spring-aop-4.1.4.RELEASE-javadoc.jar!/"
+                                        source="/MyCommonLibs/SpringMVC_v4.1.4/src/spring-aop-4.1.4.RELEASE-sources.jar"
+                                          path="/MyCommonLibs/SpringMVC_v4.1.4/bin/spring-aop-4.1.4.RELEASE.jar"/>
                                           
-        <archive javadoc="jar:platform:/resource/common-libs/SpringMVC_v4.1.4/doc/spring-beans-4.1.4.RELEASE-javadoc.jar!/"
-                                        source="/common-libs/SpringMVC_v4.1.4/src/spring-beans-4.1.4.RELEASE-sources.jar"
-                                          path="/common-libs/SpringMVC_v4.1.4/bin/spring-beans-4.1.4.RELEASE.jar"/>
+        <archive javadoc="jar:platform:/resource/MyCommonLibs/SpringMVC_v4.1.4/doc/spring-beans-4.1.4.RELEASE-javadoc.jar!/"
+                                        source="/MyCommonLibs/SpringMVC_v4.1.4/src/spring-beans-4.1.4.RELEASE-sources.jar"
+                                          path="/MyCommonLibs/SpringMVC_v4.1.4/bin/spring-beans-4.1.4.RELEASE.jar"/>
                                           
-        <archive javadoc="jar:platform:/resource/common-libs/SpringMVC_v4.1.4/doc/spring-context-4.1.4.RELEASE-javadoc.jar!/"
-                                        source="/common-libs/SpringMVC_v4.1.4/src/spring-context-4.1.4.RELEASE-sources.jar"
-                                          path="/common-libs/SpringMVC_v4.1.4/bin/spring-context-4.1.4.RELEASE.jar"/>
+        <archive javadoc="jar:platform:/resource/MyCommonLibs/SpringMVC_v4.1.4/doc/spring-context-4.1.4.RELEASE-javadoc.jar!/"
+                                        source="/MyCommonLibs/SpringMVC_v4.1.4/src/spring-context-4.1.4.RELEASE-sources.jar"
+                                          path="/MyCommonLibs/SpringMVC_v4.1.4/bin/spring-context-4.1.4.RELEASE.jar"/>
                                           
-        <archive javadoc="jar:platform:/resource/common-libs/SpringMVC_v4.1.4/doc/spring-core-4.1.4.RELEASE-javadoc.jar!/"
-                                        source="/common-libs/SpringMVC_v4.1.4/src/spring-core-4.1.4.RELEASE-sources.jar"
-                                          path="/common-libs/SpringMVC_v4.1.4/bin/spring-core-4.1.4.RELEASE.jar"/>
+        <archive javadoc="jar:platform:/resource/MyCommonLibs/SpringMVC_v4.1.4/doc/spring-core-4.1.4.RELEASE-javadoc.jar!/"
+                                        source="/MyCommonLibs/SpringMVC_v4.1.4/src/spring-core-4.1.4.RELEASE-sources.jar"
+                                          path="/MyCommonLibs/SpringMVC_v4.1.4/bin/spring-core-4.1.4.RELEASE.jar"/>
                                           
-        <archive javadoc="jar:platform:/resource/common-libs/SpringMVC_v4.1.4/doc/spring-expression-4.1.4.RELEASE-javadoc.jar!/"
-                                        source="/common-libs/SpringMVC_v4.1.4/src/spring-expression-4.1.4.RELEASE-sources.jar"
-                                          path="/common-libs/SpringMVC_v4.1.4/bin/spring-expression-4.1.4.RELEASE.jar"/>
+        <archive javadoc="jar:platform:/resource/MyCommonLibs/SpringMVC_v4.1.4/doc/spring-expression-4.1.4.RELEASE-javadoc.jar!/"
+                                        source="/MyCommonLibs/SpringMVC_v4.1.4/src/spring-expression-4.1.4.RELEASE-sources.jar"
+                                          path="/MyCommonLibs/SpringMVC_v4.1.4/bin/spring-expression-4.1.4.RELEASE.jar"/>
                                           
-        <archive javadoc="jar:platform:/resource/common-libs/SpringMVC_v4.1.4/doc/spring-aspects-4.1.4.RELEASE-javadoc.jar!/"
-                                        source="/common-libs/SpringMVC_v4.1.4/src/spring-aspects-4.1.4.RELEASE-sources.jar"
-                                          path="/common-libs/SpringMVC_v4.1.4/bin/spring-aspects-4.1.4.RELEASE.jar"/>
+        <archive javadoc="jar:platform:/resource/MyCommonLibs/SpringMVC_v4.1.4/doc/spring-aspects-4.1.4.RELEASE-javadoc.jar!/"
+                                        source="/MyCommonLibs/SpringMVC_v4.1.4/src/spring-aspects-4.1.4.RELEASE-sources.jar"
+                                          path="/MyCommonLibs/SpringMVC_v4.1.4/bin/spring-aspects-4.1.4.RELEASE.jar"/>
                                           
-        <archive javadoc="jar:platform:/resource/common-libs/SpringMVC_v4.1.4/doc/spring-web-4.1.4.RELEASE-javadoc.jar!/"
-                                        source="/common-libs/SpringMVC_v4.1.4/src/spring-web-4.1.4.RELEASE-sources.jar"
-                                          path="/common-libs/SpringMVC_v4.1.4/bin/spring-web-4.1.4.RELEASE.jar"/>
+        <archive javadoc="jar:platform:/resource/MyCommonLibs/SpringMVC_v4.1.4/doc/spring-web-4.1.4.RELEASE-javadoc.jar!/"
+                                        source="/MyCommonLibs/SpringMVC_v4.1.4/src/spring-web-4.1.4.RELEASE-sources.jar"
+                                          path="/MyCommonLibs/SpringMVC_v4.1.4/bin/spring-web-4.1.4.RELEASE.jar"/>
                                           
-        <archive javadoc="jar:platform:/resource/common-libs/SpringMVC_v4.1.4/doc/spring-webmvc-4.1.4.RELEASE-javadoc.jar!/"
-                                        source="/common-libs/SpringMVC_v4.1.4/src/spring-webmvc-4.1.4.RELEASE-sources.jar"
-                                          path="/common-libs/SpringMVC_v4.1.4/bin/spring-webmvc-4.1.4.RELEASE.jar"/>
+        <archive javadoc="jar:platform:/resource/MyCommonLibs/SpringMVC_v4.1.4/doc/spring-webmvc-4.1.4.RELEASE-javadoc.jar!/"
+                                        source="/MyCommonLibs/SpringMVC_v4.1.4/src/spring-webmvc-4.1.4.RELEASE-sources.jar"
+                                          path="/MyCommonLibs/SpringMVC_v4.1.4/bin/spring-webmvc-4.1.4.RELEASE.jar"/>
     </library>
     
     
     <library name="lib-thymeleaf" systemlibrary="false">
-        <archive javadoc="jar:platform:/resource/common-libs/Thymeleaf_v2.1.4/doc/thymeleaf-2.1.4.RELEASE-javadoc.jar!/"
-                                        source="/common-libs/Thymeleaf_v2.1.4/src/thymeleaf-2.1.4.RELEASE-sources.jar"
-                                          path="/common-libs/Thymeleaf_v2.1.4/bin/thymeleaf-2.1.4.RELEASE.jar"/>
+        <archive javadoc="jar:platform:/resource/MyCommonLibs/Thymeleaf_v2.1.4/doc/thymeleaf-2.1.4.RELEASE-javadoc.jar!/"
+                                        source="/MyCommonLibs/Thymeleaf_v2.1.4/src/thymeleaf-2.1.4.RELEASE-sources.jar"
+                                          path="/MyCommonLibs/Thymeleaf_v2.1.4/bin/thymeleaf-2.1.4.RELEASE.jar"/>
                                           
-        <archive javadoc="jar:platform:/resource/common-libs/Thymeleaf_v2.1.4/doc/thymeleaf-spring4-2.1.4.RELEASE-javadoc.jar!/"
-                                        source="/common-libs/Thymeleaf_v2.1.4/src/thymeleaf-spring4-2.1.4.RELEASE-sources.jar"
-                                          path="/common-libs/Thymeleaf_v2.1.4/bin/thymeleaf-spring4-2.1.4.RELEASE.jar"/>
+        <archive javadoc="jar:platform:/resource/MyCommonLibs/Thymeleaf_v2.1.4/doc/thymeleaf-spring4-2.1.4.RELEASE-javadoc.jar!/"
+                                        source="/MyCommonLibs/Thymeleaf_v2.1.4/src/thymeleaf-spring4-2.1.4.RELEASE-sources.jar"
+                                          path="/MyCommonLibs/Thymeleaf_v2.1.4/bin/thymeleaf-spring4-2.1.4.RELEASE.jar"/>
                                           
-        <archive path="/common-libs/Thymeleaf_v2.1.4/lib/javassist-3.16.1-GA.jar"/>
-        <archive path="/common-libs/Thymeleaf_v2.1.4/lib/ognl-3.0.8.jar"/>
-        <archive path="/common-libs/Thymeleaf_v2.1.4/lib/slf4j-api-1.6.6.jar"/>
-        <archive path="/common-libs/Thymeleaf_v2.1.4/lib/unbescape-1.1.0.RELEASE.jar"/>
+        <archive path="/MyCommonLibs/Thymeleaf_v2.1.4/lib/javassist-3.16.1-GA.jar"/>
+        <archive path="/MyCommonLibs/Thymeleaf_v2.1.4/lib/ognl-3.0.8.jar"/>
+        <archive path="/MyCommonLibs/Thymeleaf_v2.1.4/lib/slf4j-api-1.6.6.jar"/>
+        <archive path="/MyCommonLibs/Thymeleaf_v2.1.4/lib/unbescape-1.1.0.RELEASE.jar"/>
     </library>
 </eclipse-userlibraries>
