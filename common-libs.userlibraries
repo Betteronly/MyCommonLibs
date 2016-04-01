@@ -49,4 +49,21 @@
         <archive path="/MyCommonLibs/Thymeleaf_v2.1.4/lib/slf4j-api-1.6.6.jar"/>
         <archive path="/MyCommonLibs/Thymeleaf_v2.1.4/lib/unbescape-1.1.0.RELEASE.jar"/>
     </library>
+    
+    <library name="lib-jedis2.8.1" systemlibrary="false">
+        <archive javadoc="jar:platform:/resource/MyCommonLibs/Jedis2.8.1/jedis-2.8.1-javadoc.jar!/"
+                                        source="/MyCommonLibs/Jedis2.8.1/jedis-2.8.1-sources.jar"
+                                          path="/MyCommonLibs/Jedis2.8.1/jedis-2.8.1.jar"/>
+    </library>
+    
+    <library name="lib-jedis2.4.2" systemlibrary="false">
+        <archive javadoc="jar:platform:/resource/MyCommonLibs/Jedis2.4.2/jedis-2.4.2-javadoc.jar!/"
+                                        source="/MyCommonLibs/Jedis2.4.2/jedis-2.4.2-sources.jar"
+                                          path="/MyCommonLibs/Jedis2.4.2/jedis-2.4.2.jar"/>
+    </library>
+    
+    <library name="lib-redis_commons-pool2-2.4.2" systemlibrary="false">
+        <archive javadoc="jar:platform:/resource/MyCommonLibs/commons-pool2-2.4.2/commons-pool2-2.4.2-javadoc.jar!/"
+                                          path="/MyCommonLibs/Jcommons-pool2-2.4.2/commons-pool2-2.4.2.jar"/>
+    </library>
 </eclipse-userlibraries>
