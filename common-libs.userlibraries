@@ -64,6 +64,6 @@
     
     <library name="lib-redis_commons-pool2-2.4.2" systemlibrary="false">
         <archive javadoc="jar:platform:/resource/MyCommonLibs/commons-pool2-2.4.2/commons-pool2-2.4.2-javadoc.jar!/"
-                                          path="/MyCommonLibs/Jcommons-pool2-2.4.2/commons-pool2-2.4.2.jar"/>
+                                          path="/MyCommonLibs/commons-pool2-2.4.2/commons-pool2-2.4.2.jar"/>
     </library>
 </eclipse-userlibraries>
