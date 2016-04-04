@@ -34,7 +34,7 @@
                                           path="/MyCommonLibs/SpringMVC_v4.1.4/bin/spring-webmvc-4.1.4.RELEASE.jar"/>
     </library>
     
-    <library name="lib-thymeleaf2.1.4" systemlibrary="false">
+    <library name="lib-thymeleaf2.1.4.RELEASE" systemlibrary="false">
         <archive javadoc="jar:platform:/resource/MyCommonLibs/thymeleaf-2.1.4.RELEASE/doc/thymeleaf-2.1.4.RELEASE-javadoc.jar!/"
                                         source="/MyCommonLibs/thymeleaf-2.1.4.RELEASE/src/thymeleaf-2.1.4.RELEASE-sources.jar"
                                           path="/MyCommonLibs/thymeleaf-2.1.4.RELEASE/bin/thymeleaf-2.1.4.RELEASE.jar"/>
