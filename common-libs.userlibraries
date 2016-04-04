@@ -1,37 +1,81 @@
 <?xml version="1.0" encoding="GBK" standalone="no"?>
 <eclipse-userlibraries version="2">
-    <library name="lib-springmvc4.1.4" systemlibrary="false">
-        <archive javadoc="jar:platform:/resource/MyCommonLibs/SpringMVC_v4.1.4/doc/spring-aop-4.1.4.RELEASE-javadoc.jar!/"
-                                        source="/MyCommonLibs/SpringMVC_v4.1.4/src/spring-aop-4.1.4.RELEASE-sources.jar"
-                                          path="/MyCommonLibs/SpringMVC_v4.1.4/bin/spring-aop-4.1.4.RELEASE.jar"/>
+    <library name="lib-spring-fw-4.1.4" systemlibrary="false">
+        <archive javadoc="jar:platform:/resource/MyCommonLibs/spring-fw-4.1.4/doc/spring-aop-4.1.4.RELEASE-javadoc.jar!/"
+                                        source="/MyCommonLibs/spring-fw-4.1.4/src/spring-aop-4.1.4.RELEASE-sources.jar"
+                                          path="/MyCommonLibs/spring-fw-4.1.4/bin/spring-aop-4.1.4.RELEASE.jar"/>
                                           
-        <archive javadoc="jar:platform:/resource/MyCommonLibs/SpringMVC_v4.1.4/doc/spring-beans-4.1.4.RELEASE-javadoc.jar!/"
-                                        source="/MyCommonLibs/SpringMVC_v4.1.4/src/spring-beans-4.1.4.RELEASE-sources.jar"
-                                          path="/MyCommonLibs/SpringMVC_v4.1.4/bin/spring-beans-4.1.4.RELEASE.jar"/>
+        <archive javadoc="jar:platform:/resource/MyCommonLibs/spring-fw-4.1.4/doc/spring-beans-4.1.4.RELEASE-javadoc.jar!/"
+                                        source="/MyCommonLibs/spring-fw-4.1.4/src/spring-beans-4.1.4.RELEASE-sources.jar"
+                                          path="/MyCommonLibs/spring-fw-4.1.4/bin/spring-beans-4.1.4.RELEASE.jar"/>
                                           
-        <archive javadoc="jar:platform:/resource/MyCommonLibs/SpringMVC_v4.1.4/doc/spring-context-4.1.4.RELEASE-javadoc.jar!/"
-                                        source="/MyCommonLibs/SpringMVC_v4.1.4/src/spring-context-4.1.4.RELEASE-sources.jar"
-                                          path="/MyCommonLibs/SpringMVC_v4.1.4/bin/spring-context-4.1.4.RELEASE.jar"/>
+        <archive javadoc="jar:platform:/resource/MyCommonLibs/spring-fw-4.1.4/doc/spring-context-4.1.4.RELEASE-javadoc.jar!/"
+                                        source="/MyCommonLibs/spring-fw-4.1.4/src/spring-context-4.1.4.RELEASE-sources.jar"
+                                          path="/MyCommonLibs/spring-fw-4.1.4/bin/spring-context-4.1.4.RELEASE.jar"/>
                                           
-        <archive javadoc="jar:platform:/resource/MyCommonLibs/SpringMVC_v4.1.4/doc/spring-core-4.1.4.RELEASE-javadoc.jar!/"
-                                        source="/MyCommonLibs/SpringMVC_v4.1.4/src/spring-core-4.1.4.RELEASE-sources.jar"
-                                          path="/MyCommonLibs/SpringMVC_v4.1.4/bin/spring-core-4.1.4.RELEASE.jar"/>
+        <archive javadoc="jar:platform:/resource/MyCommonLibs/spring-fw-4.1.4/doc/spring-core-4.1.4.RELEASE-javadoc.jar!/"
+                                        source="/MyCommonLibs/spring-fw-4.1.4/src/spring-core-4.1.4.RELEASE-sources.jar"
+                                          path="/MyCommonLibs/spring-fw-4.1.4/bin/spring-core-4.1.4.RELEASE.jar"/>
                                           
-        <archive javadoc="jar:platform:/resource/MyCommonLibs/SpringMVC_v4.1.4/doc/spring-expression-4.1.4.RELEASE-javadoc.jar!/"
-                                        source="/MyCommonLibs/SpringMVC_v4.1.4/src/spring-expression-4.1.4.RELEASE-sources.jar"
-                                          path="/MyCommonLibs/SpringMVC_v4.1.4/bin/spring-expression-4.1.4.RELEASE.jar"/>
+        <archive javadoc="jar:platform:/resource/MyCommonLibs/spring-fw-4.1.4/doc/spring-expression-4.1.4.RELEASE-javadoc.jar!/"
+                                        source="/MyCommonLibs/spring-fw-4.1.4/src/spring-expression-4.1.4.RELEASE-sources.jar"
+                                          path="/MyCommonLibs/spring-fw-4.1.4/bin/spring-expression-4.1.4.RELEASE.jar"/>
                                           
-        <archive javadoc="jar:platform:/resource/MyCommonLibs/SpringMVC_v4.1.4/doc/spring-aspects-4.1.4.RELEASE-javadoc.jar!/"
-                                        source="/MyCommonLibs/SpringMVC_v4.1.4/src/spring-aspects-4.1.4.RELEASE-sources.jar"
-                                          path="/MyCommonLibs/SpringMVC_v4.1.4/bin/spring-aspects-4.1.4.RELEASE.jar"/>
+        <archive javadoc="jar:platform:/resource/MyCommonLibs/spring-fw-4.1.4/doc/spring-aspects-4.1.4.RELEASE-javadoc.jar!/"
+                                        source="/MyCommonLibs/spring-fw-4.1.4/src/spring-aspects-4.1.4.RELEASE-sources.jar"
+                                          path="/MyCommonLibs/spring-fw-4.1.4/bin/spring-aspects-4.1.4.RELEASE.jar"/>
                                           
-        <archive javadoc="jar:platform:/resource/MyCommonLibs/SpringMVC_v4.1.4/doc/spring-web-4.1.4.RELEASE-javadoc.jar!/"
-                                        source="/MyCommonLibs/SpringMVC_v4.1.4/src/spring-web-4.1.4.RELEASE-sources.jar"
-                                          path="/MyCommonLibs/SpringMVC_v4.1.4/bin/spring-web-4.1.4.RELEASE.jar"/>
+        <archive javadoc="jar:platform:/resource/MyCommonLibs/spring-fw-4.1.4/doc/spring-web-4.1.4.RELEASE-javadoc.jar!/"
+                                        source="/MyCommonLibs/spring-fw-4.1.4/src/spring-web-4.1.4.RELEASE-sources.jar"
+                                          path="/MyCommonLibs/spring-fw-4.1.4/bin/spring-web-4.1.4.RELEASE.jar"/>
                                           
-        <archive javadoc="jar:platform:/resource/MyCommonLibs/SpringMVC_v4.1.4/doc/spring-webmvc-4.1.4.RELEASE-javadoc.jar!/"
-                                        source="/MyCommonLibs/SpringMVC_v4.1.4/src/spring-webmvc-4.1.4.RELEASE-sources.jar"
-                                          path="/MyCommonLibs/SpringMVC_v4.1.4/bin/spring-webmvc-4.1.4.RELEASE.jar"/>
+        <archive javadoc="jar:platform:/resource/MyCommonLibs/spring-fw-4.1.4/doc/spring-webmvc-4.1.4.RELEASE-javadoc.jar!/"
+                                        source="/MyCommonLibs/spring-fw-4.1.4/src/spring-webmvc-4.1.4.RELEASE-sources.jar"
+                                          path="/MyCommonLibs/spring-fw-4.1.4/bin/spring-webmvc-4.1.4.RELEASE.jar"/>
+                                          
+        <archive path="/MyCommonLibs/spring-fw-4.1.4/lib/commons-logging-1.0.4.jar"/>
+        <archive path="/MyCommonLibs/spring-fw-4.1.4/lib/logback-access-1.1.2.jar"/>
+        <archive path="/MyCommonLibs/spring-fw-4.1.4/lib/logback-classic-1.1.2.jar"/>
+        <archive path="/MyCommonLibs/spring-fw-4.1.4/lib/logback-core-1.1.2.jar"/>
+    </library>
+    
+    <library name="lib-spring-fw-4.2.5" systemlibrary="false">
+        <archive javadoc="jar:platform:/resource/MyCommonLibs/spring-fw-4.2.5/doc/spring-aop-4.2.5.RELEASE-javadoc.jar!/"
+                                        source="/MyCommonLibs/spring-fw-4.2.5/src/spring-aop-4.2.5.RELEASE-sources.jar"
+                                          path="/MyCommonLibs/spring-fw-4.2.5/bin/spring-aop-4.2.5.RELEASE.jar"/>
+                                          
+        <archive javadoc="jar:platform:/resource/MyCommonLibs/spring-fw-4.2.5/doc/spring-beans-4.2.5.RELEASE-javadoc.jar!/"
+                                        source="/MyCommonLibs/spring-fw-4.2.5/src/spring-beans-4.2.5.RELEASE-sources.jar"
+                                          path="/MyCommonLibs/spring-fw-4.2.5/bin/spring-beans-4.2.5.RELEASE.jar"/>
+                                          
+        <archive javadoc="jar:platform:/resource/MyCommonLibs/spring-fw-4.2.5/doc/spring-context-4.2.5.RELEASE-javadoc.jar!/"
+                                        source="/MyCommonLibs/spring-fw-4.2.5/src/spring-context-4.2.5.RELEASE-sources.jar"
+                                          path="/MyCommonLibs/spring-fw-4.2.5/bin/spring-context-4.2.5.RELEASE.jar"/>
+                                          
+        <archive javadoc="jar:platform:/resource/MyCommonLibs/spring-fw-4.2.5/doc/spring-core-4.2.5.RELEASE-javadoc.jar!/"
+                                        source="/MyCommonLibs/spring-fw-4.2.5/src/spring-core-4.2.5.RELEASE-sources.jar"
+                                          path="/MyCommonLibs/spring-fw-4.2.5/bin/spring-core-4.2.5.RELEASE.jar"/>
+                                          
+        <archive javadoc="jar:platform:/resource/MyCommonLibs/spring-fw-4.2.5/doc/spring-expression-4.2.5.RELEASE-javadoc.jar!/"
+                                        source="/MyCommonLibs/spring-fw-4.2.5/src/spring-expression-4.2.5.RELEASE-sources.jar"
+                                          path="/MyCommonLibs/spring-fw-4.2.5/bin/spring-expression-4.2.5.RELEASE.jar"/>
+                                          
+        <archive javadoc="jar:platform:/resource/MyCommonLibs/spring-fw-4.2.5/doc/spring-aspects-4.2.5.RELEASE-javadoc.jar!/"
+                                        source="/MyCommonLibs/spring-fw-4.2.5/src/spring-aspects-4.2.5.RELEASE-sources.jar"
+                                          path="/MyCommonLibs/spring-fw-4.2.5/bin/spring-aspects-4.2.5.RELEASE.jar"/>
+                                          
+        <archive javadoc="jar:platform:/resource/MyCommonLibs/spring-fw-4.2.5/doc/spring-web-4.2.5.RELEASE-javadoc.jar!/"
+                                        source="/MyCommonLibs/spring-fw-4.2.5/src/spring-web-4.2.5.RELEASE-sources.jar"
+                                          path="/MyCommonLibs/spring-fw-4.2.5/bin/spring-web-4.2.5.RELEASE.jar"/>
+                                          
+        <archive javadoc="jar:platform:/resource/MyCommonLibs/spring-fw-4.2.5/doc/spring-webmvc-4.2.5.RELEASE-javadoc.jar!/"
+                                        source="/MyCommonLibs/spring-fw-4.2.5/src/spring-webmvc-4.2.5.RELEASE-sources.jar"
+                                          path="/MyCommonLibs/spring-fw-4.2.5/bin/spring-webmvc-4.2.5.RELEASE.jar"/>
+                                          
+        <archive path="/MyCommonLibs/spring-fw-4.2.5/lib/commons-logging-1.0.4.jar"/>
+        <archive path="/MyCommonLibs/spring-fw-4.2.5/lib/logback-access-1.1.2.jar"/>
+        <archive path="/MyCommonLibs/spring-fw-4.2.5/lib/logback-classic-1.1.2.jar"/>
+        <archive path="/MyCommonLibs/spring-fw-4.2.5/lib/logback-core-1.1.2.jar"/>
     </library>
     
     <library name="lib-thymeleaf2.1.4.RELEASE" systemlibrary="false">
