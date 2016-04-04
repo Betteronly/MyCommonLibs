@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="GBK" standalone="no"?>
 <eclipse-userlibraries version="2">
-    <library name="lib-springmvc" systemlibrary="false">
+    <library name="lib-springmvc4.1.4" systemlibrary="false">
         <archive javadoc="jar:platform:/resource/MyCommonLibs/SpringMVC_v4.1.4/doc/spring-aop-4.1.4.RELEASE-javadoc.jar!/"
                                         source="/MyCommonLibs/SpringMVC_v4.1.4/src/spring-aop-4.1.4.RELEASE-sources.jar"
                                           path="/MyCommonLibs/SpringMVC_v4.1.4/bin/spring-aop-4.1.4.RELEASE.jar"/>
@@ -34,8 +34,7 @@
                                           path="/MyCommonLibs/SpringMVC_v4.1.4/bin/spring-webmvc-4.1.4.RELEASE.jar"/>
     </library>
     
-    
-    <library name="lib-thymeleaf" systemlibrary="false">
+    <library name="lib-thymeleaf2.1.4" systemlibrary="false">
         <archive javadoc="jar:platform:/resource/MyCommonLibs/Thymeleaf_v2.1.4/doc/thymeleaf-2.1.4.RELEASE-javadoc.jar!/"
                                         source="/MyCommonLibs/Thymeleaf_v2.1.4/src/thymeleaf-2.1.4.RELEASE-sources.jar"
                                           path="/MyCommonLibs/Thymeleaf_v2.1.4/bin/thymeleaf-2.1.4.RELEASE.jar"/>
@@ -48,6 +47,22 @@
         <archive path="/MyCommonLibs/Thymeleaf_v2.1.4/lib/ognl-3.0.8.jar"/>
         <archive path="/MyCommonLibs/Thymeleaf_v2.1.4/lib/slf4j-api-1.6.6.jar"/>
         <archive path="/MyCommonLibs/Thymeleaf_v2.1.4/lib/unbescape-1.1.0.RELEASE.jar"/>
+    </library>
+    
+    <library name="lib-thymeleaf3.0.0.BETA02" systemlibrary="false">
+        <archive javadoc="jar:platform:/resource/MyCommonLibs/thymeleaf-3.0.0.BETA02/doc/thymeleaf-3.0.0.BETA02-javadoc.jar!/"
+                                        source="/MyCommonLibs/thymeleaf-3.0.0.BETA02/src/thymeleaf-3.0.0.BETA02-sources.jar"
+                                          path="/MyCommonLibs/thymeleaf-3.0.0.BETA02/bin/thymeleaf-3.0.0.BETA02.jar"/>
+                                          
+        <archive javadoc="jar:platform:/resource/MyCommonLibs/thymeleaf-3.0.0.BETA02/doc/thymeleaf-spring4-3.0.0.BETA02-javadoc.jar!/"
+                                        source="/MyCommonLibs/thymeleaf-3.0.0.BETA02/src/thymeleaf-spring4-3.0.0.BETA02-sources.jar"
+                                          path="/MyCommonLibs/thymeleaf-3.0.0.BETA02/bin/thymeleaf-spring4-3.0.0.BETA02.jar"/>
+                                          
+        <archive path="/MyCommonLibs/thymeleaf-3.0.0.BETA02/lib/attoparser-2.0.0.BETA05.jar"/>
+        <archive path="/MyCommonLibs/thymeleaf-3.0.0.BETA02/lib/javassist-3.11.0.GA.jar"/>
+        <archive path="/MyCommonLibs/thymeleaf-3.0.0.BETA02/lib/ognl-3.1.2.jar"/>
+        <archive path="/MyCommonLibs/thymeleaf-3.0.0.BETA02/lib/slf4j-api-1.6.6.jar"/>
+        <archive path="/MyCommonLibs/thymeleaf-3.0.0.BETA02/lib/unbescape-1.1.2.RELEASE.jar"/>
     </library>
     
     <library name="lib-jedis2.8.1" systemlibrary="false">
