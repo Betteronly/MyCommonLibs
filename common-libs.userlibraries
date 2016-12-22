@@ -125,4 +125,19 @@
         <archive javadoc="jar:platform:/resource/MyCommonLibs/commons-pool2-2.4.2/commons-pool2-2.4.2-javadoc.jar!/"
                                           path="/MyCommonLibs/commons-pool2-2.4.2/commons-pool2-2.4.2.jar"/>
     </library>
+
+    <library name="lib-JSONObject2.4" systemlibrary="false">
+        <archive path="/MyCommonLibs/JSONObject2.4/commons-beanutils.jar"/>
+        <archive path="/MyCommonLibs/JSONObject2.4/commons-collections-3.0.jar"/>
+        <archive path="/MyCommonLibs/JSONObject2.4/commons-lang-2.1.jar"/>
+        <archive path="/MyCommonLibs/JSONObject2.4/ezmorph-1.0.2.jar"/>
+        <archive path="/MyCommonLibs/JSONObject2.4/json-lib-1.1-jdk13.jar"/>
+        <archive path="/MyCommonLibs/JSONObject2.4/xom-1.0d10.jar"/>
+    </library>
+    
+    <library name="lib-jackson" systemlibrary="false">
+        <archive path="/MyCommonLibs/jackson/jackson-annotations-2.6.4.jar"/>
+        <archive path="/MyCommonLibs/jackson/jackson-core-2.6.4.jar"/>
+        <archive path="/MyCommonLibs/jackson/jackson-databind-2.6.4.jar"/>
+    </library>
 </eclipse-userlibraries>
