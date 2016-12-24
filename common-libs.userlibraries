@@ -135,9 +135,21 @@
         <archive path="/MyCommonLibs/JSONObject2.4/xom-1.0d10.jar"/>
     </library>
     
-    <library name="lib-jackson" systemlibrary="false">
+    <library name="lib-jackson2.6.4" systemlibrary="false">
         <archive path="/MyCommonLibs/jackson/jackson-annotations-2.6.4.jar"/>
         <archive path="/MyCommonLibs/jackson/jackson-core-2.6.4.jar"/>
         <archive path="/MyCommonLibs/jackson/jackson-databind-2.6.4.jar"/>
+    </library>
+    
+    <library name="lib-mybatis3.3.0" systemlibrary="false">
+        <archive path="/MyCommonLibs/mybatis-3.3.0/mybatis-3.3.0.jar"/>
+        <archive path="/MyCommonLibs/mybatis-3.3.0/lib/asm-4.2.jar"/>
+        <archive path="/MyCommonLibs/mybatis-3.3.0/lib/cglib-3.1.jar"/>
+        <archive path="/MyCommonLibs/mybatis-3.3.0/lib/commons-logging-1.2.jar"/>
+        <archive path="/MyCommonLibs/mybatis-3.3.0/lib/log4j-1.2.17.jar"/>
+        <archive path="/MyCommonLibs/mybatis-3.3.0/lib/log4j-api-2.2.jar"/>
+        <archive path="/MyCommonLibs/mybatis-3.3.0/lib/log4j-core-2.2.jar"/>
+        <archive path="/MyCommonLibs/mybatis-3.3.0/lib/slf4j-api-1.7.12.jar"/>
+        <archive path="/MyCommonLibs/mybatis-3.3.0/lib/slf4j-log4j12-1.7.12.jar"/>
     </library>
 </eclipse-userlibraries>
