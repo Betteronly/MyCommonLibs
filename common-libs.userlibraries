@@ -136,9 +136,9 @@
     </library>
     
     <library name="lib-jackson2.6.4" systemlibrary="false">
-        <archive path="/MyCommonLibs/jackson/jackson-annotations-2.6.4.jar"/>
-        <archive path="/MyCommonLibs/jackson/jackson-core-2.6.4.jar"/>
-        <archive path="/MyCommonLibs/jackson/jackson-databind-2.6.4.jar"/>
+        <archive path="/MyCommonLibs/jackson-2.6.4/jackson-annotations-2.6.4.jar"/>
+        <archive path="/MyCommonLibs/jackson-2.6.4/jackson-core-2.6.4.jar"/>
+        <archive path="/MyCommonLibs/jackson-2.6.4/jackson-databind-2.6.4.jar"/>
     </library>
     
     <library name="lib-mybatis3.3.0" systemlibrary="false">
